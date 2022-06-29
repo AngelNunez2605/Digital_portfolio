@@ -1,0 +1,1 @@
+export 'package:portfolio_of_digital/models/menu_option.dart';
